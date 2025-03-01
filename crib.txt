@@ -13,5 +13,3 @@ Commands related to checking status or log history
 git status
 git log
 The basic Git syntax is program | action | destination.
-
-ok
